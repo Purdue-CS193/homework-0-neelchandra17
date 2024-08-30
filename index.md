@@ -1,8 +1,8 @@
 # Neel's First CS193 Homework
 
-- asdf
-- rdgthy
-- iuj
+- I like that the teachers are incredibly laidback
+- The teachers understand how useful/less these features we are learning are.
+- They give detailed instructions on the homework, which leads you to the right spot 50% of the time
 
 
 ## Welcome to GitHub Pages
